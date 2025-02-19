@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, I am Sotiris a second year PhD candidate ath the University of Warwick. My research interests lie in many areas such as general computer vision, generative models, deepfake detection and reinforcement learning. My current research focuses on deepfake detection.
