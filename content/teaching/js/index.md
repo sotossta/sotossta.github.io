@@ -1,6 +1,6 @@
 ---
 title: CS342 Machine learning
-date: 2024-09-01
+date: 2024-09-30
 external_link: https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs342/
 tags:
   - Python
