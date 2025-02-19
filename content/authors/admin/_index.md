@@ -24,8 +24,8 @@ role: PhD Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: MathSys CDT, University of Warwick
-    url: https://warwick.ac.uk/fac/sci/mathsys/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
