@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Sotiris Stamnas
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sotiris
+last_name: Stamnas
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,13 +47,13 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Deepfake Detection
+  - Reinforcement Learning
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
+    institution: University of Warwick
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
