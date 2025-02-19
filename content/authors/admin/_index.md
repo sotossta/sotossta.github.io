@@ -48,7 +48,7 @@ profiles:
 
 interests:
   - Computer Vision
-  - Deepfake Detection
+  - Deepfake Detectionnnn
   - Reinforcement Learning
 
 education:
