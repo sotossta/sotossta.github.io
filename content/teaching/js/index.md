@@ -3,11 +3,9 @@ title: CS342 Machine learning
 date: 2023-10-26
 external_link: https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs342/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Python
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+This module offers an in-depth introduction to two main- areas of Machine Learning: supervised and unsupervised learning.
 
 <!--more-->
