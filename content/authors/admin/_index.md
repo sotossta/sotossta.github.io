@@ -117,4 +117,4 @@ awards:
 
 ## About Me
 
-Helloo, I am Sotiris a second year PhD candidate at the University of Warwick. My research interests lie in many areas such as general computer vision, generative models, deepfake detection and reinforcement learning. My current research focuses on deepfake detection.
+Hello, I am Sotiris a second year PhD candidate at the University of Warwick. My research interests lie in many areas such as general computer vision, generative models, deepfake detection and reinforcement learning. My current research focuses on deepfake detection.
