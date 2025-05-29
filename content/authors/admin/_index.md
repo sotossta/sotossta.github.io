@@ -41,8 +41,8 @@ profiles:
     url: https://github.com/sotossta
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sotirios-stamnas-9042a921a/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=fHyX_ioAAAAJ&hl=el
+#  - icon: academicons/google-scholar
+#    url: https://scholar.google.com/
 #  - icon: academicons/orcid
 #    url: https://orcid.org/
 
