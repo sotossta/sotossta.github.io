@@ -59,48 +59,33 @@ education:
   - area: Master of Physics
     institution: University of Manchester
 
-# Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        # percent: 60 # This line remains removed
         icon: person-simple-walk
       - name: Cats
         description: ''
-        percent: 100
+        # percent: 100 # This line remains removed
         icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        # percent: 80 # This line remains removed
         icon: camera
 
-languages:
+languages: # <--- UNCOMMENT OR ADD THIS SECTION BACK
   - items:
     - name: English
       description: ''
-      percent: 80
+      # percent: 80 # <-- REMOVE THIS LINE
     - name: Greek
       description: ''
-      percent: 80
+      # percent: 80 # <-- REMOVE THIS LINE
 
 # Awards.
 #   Add/remove as many awards below as you like.
