@@ -13,7 +13,7 @@ sections:
     id: talks_list # Give it an ID to reference if needed
     content:
       title: My Recent Talks
-      text: Here are some of the talks I have given so far, showcasing my research and expertise.
+      text: Here are some of the talks I have given so far, showcasing my research.
       # Configure the collection to pull content of type 'talk'
       page_type: talk # <--- THIS IS THE KEY CHANGE
       count: 10 # Number of talks to display, e.g., 10 or 0 for all

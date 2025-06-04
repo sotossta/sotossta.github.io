@@ -1,5 +1,7 @@
 ---
 title: "DiffFake: Exposing Deepfakes using Differential Anomaly Detection"
+summary: "Presented at WACV 2025 in Tucson, Arizona, USA on March 2025."
+
 event: "WACV 2025"
 event_url: "https://wacv2025.thecvf.com/"
 location: "Tucson Arizona, USA"
@@ -14,5 +16,3 @@ links:
     name: Slides
     url: "uploads/WACV_Presentation.pdf" # Link to PDF in static/uploads
 ---
-
-Here you can write the full content of your talk, notes, or transcript.
