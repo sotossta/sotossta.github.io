@@ -1,22 +1,13 @@
 ---
 title: "DiffFake: Exposing Deepfakes using Differential Anomaly Detection"
-summary: "Presented at WACV 2025 in Tucson, Arizona, USA on March 2025."
+summary: "Presented at WACV 2025 in Tucson, Arizona, USA ."
 
 event: "WACV 2025"
-event_url: "https://wacv2025.thecvf.com/"
+url_source: "https://wacv2025.thecvf.com/"
 url_slides: "uploads/WACV_Presentation.pdf"
-url_pdf: "uploads/WACV_Presentation.pdf"
+url_video: "uploads/WACV_Presentation.pdf"
 location: "Tucson Arizona, USA"
-#date: 2025-03-15T09:00:00Z # Use ISO 8601 format for date and time
+date: 2025-02-28T09:00:00Z # Use ISO 8601 format for date and time
 
-# links:
-#   - icon: twitter # You can use icons like twitter, youtube, github, slideshare etc.
-#     icon_pack: fab
-#     name: Follow
-#     url: https://twitter.com/yourhandle
-#   - icon: file-pdf
-#     icon_pack: fas
-#     name: Slides
-#     url: "uploads/WACV_Presentation.pdf" # Link to PDF in static/uploads
 
----
+This Talk deals with differential Anomaly Detection
