@@ -1,12 +1,12 @@
 ---
 title: "DecepTIV: A Large-Scale Benchmark for Robust Detection of T2V and I2V Synthetic Videos​"
-summary: "Presented at JAMS in Oxford, UK."
+summary: "Presented at the University of Oxford JAMS Seminar, UK."
 
 event: "University of Oxford JAMS Seminar"
 
 url_slides: "uploads/DECEPTIV_slides.pptx"
 #location: "Tucson Arizona, USA"
-date: 2025-06-04T09:00:00Z # Use ISO 8601 format for date and time
+date: 2025-06-03T09:00:00Z # Use ISO 8601 format for date and time
 
 
 
