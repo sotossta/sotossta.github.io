@@ -94,12 +94,9 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  -items:
+    - name: English
+    - name: Greek
 
 # Awards.
 #   Add/remove as many awards below as you like.
