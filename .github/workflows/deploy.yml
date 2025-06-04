@@ -3,30 +3,32 @@ name: Deploy Hugo site to GitHub Pages
 on:
   push:
     branches:
-      - main # This triggers the workflow when you push to 'main'
+      - main
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions: # <--- ADD THIS BLOCK
+      contents: write # <--- Grants write access to the GITHUB_TOKEN for repository content
     steps:
       - name: Checkout main branch
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Needed for some Hugo features like .GitInfo
-          submodules: true # If your theme is a submodule
+          fetch-depth: 0
+          submodules: true
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.134.1' # Or a specific version, e.g., '0.126.1'
-          extended: true # Uncomment if your theme/site uses Sass/SCSS
+          hugo-version: '0.134.1' # Keep this as per previous fix
+          extended: true
 
       - name: Build Hugo site
-        run: hugo --minify # Builds the site into the 'public/' directory
+        run: hugo --minify
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public # Tells the action to deploy the 'public' folder's contents
-          publish_branch: gh-pages # This creates/updates the 'gh-pages' branch with your built site
+          publish_dir: ./public
+          publish_branch: gh-pages
