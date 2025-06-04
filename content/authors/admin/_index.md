@@ -94,7 +94,7 @@ skills:
         icon: camera
 
 languages:
-  -items:
+  - items:
     - name: English
     - name: Greek
 
