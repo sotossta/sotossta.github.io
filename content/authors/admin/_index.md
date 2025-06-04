@@ -96,7 +96,11 @@ skills:
 languages:
   - items:
     - name: English
+      description: ''
+      percent: 80
     - name: Greek
+      description: ''
+      percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
