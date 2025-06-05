@@ -58,6 +58,11 @@ education:
     institution: University of Warwick
   - area: Master of Physics
     institution: University of Manchester
+    date_start: September 2018
+    date_end: September 2022
+    summary: |
+      - Graduated with first-class honors
+      - Master’s project: Applications of Statistical Physics to Epidemiology, supervised by Professor Tobias Galla
 
 # Add your own SVG icons to `assets/media/icons/`
 skills:
