@@ -55,6 +55,8 @@ education:
   - area: PhD Artificial Intelligence
     institution: University of Warwick
   - area: MSc in Mathematics of Systems
+    date_start: September 2023
+    date_end: September 2022
     institution: University of Warwick
   - area: Master of Physics
     institution: University of Manchester
