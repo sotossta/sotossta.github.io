@@ -88,7 +88,7 @@ skills:
       - name: Piano
         description: ''
         # percent: 100 # This line remains removed
-        icon: hb/piano
+        icon: cat
 
 
 languages: # <--- UNCOMMENT OR ADD THIS SECTION BACK
