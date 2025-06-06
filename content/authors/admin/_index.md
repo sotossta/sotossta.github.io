@@ -56,9 +56,9 @@ education:
     institution: University of Warwick
     date_start: 2023-09-01
     summary: |
-      - My research mainly focuses on the area of Deepfake detection, under the supervision of Prof. Victor Sanchez and Prof. Vitomir Struc.
-      - The first part of my project focused on developing an anomaly-detection based framework for deepfake detection. This work was published at WACVW 2025.
-      - My most recent work involved developing a new and novel dataset for the detection of Text-To-Video and Image-To-Video media ([press here for more details](https://github.com/sotossta/DecepTIV)). This work is currently under review.
+      - I am conducting my research on the area of Deepfake detection, under the supervision of Prof. Victor Sanchez and Prof. Vitomir Struc.
+      - My first work involved developing an anomaly-detection based framework for Deepfake detection. This work was published at WACVW 2025.
+      - My most recent work involved creating a new and novel dataset for the detection of Text-To-Video and Image-To-Video media ([press here for more details](https://github.com/sotossta/DecepTIV)). This work is currently under review.
   - area: MSc in Mathematics of Systems
     date_start: 2022-09-01
     date_end: 2023-09-01
