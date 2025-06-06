@@ -81,18 +81,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Snowboarding
         description: ''
         # percent: 60 # This line remains removed
-        icon: person-snowboarding
-      - name: Cats
+        icon: assets/media/icons/person-snowboarding-solid.svg
+      - name: Piano
         description: ''
         # percent: 100 # This line remains removed
-        icon: cat
-      - name: Photography
-        description: ''
-        # percent: 80 # This line remains removed
-        icon: camera
+        icon: assets/media/icons/piano.svg
+
 
 languages: # <--- UNCOMMENT OR ADD THIS SECTION BACK
   - items:
