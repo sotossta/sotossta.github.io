@@ -81,6 +81,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Gym
+        description: ''
+        # percent: 60 # This line remains removed
+        icon: hb/dumbbell-solid
       - name: Snowboarding
         description: ''
         # percent: 60 # This line remains removed
