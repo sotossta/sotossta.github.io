@@ -84,11 +84,11 @@ skills:
       - name: Snowboarding
         description: ''
         # percent: 60 # This line remains removed
-        icon: assets/media/icons/person-snowboarding-solid.svg
+        icon: person-snowboarding-solid
       - name: Piano
         description: ''
         # percent: 100 # This line remains removed
-        icon: assets/media/icons/piano.svg
+        icon: piano
 
 
 languages: # <--- UNCOMMENT OR ADD THIS SECTION BACK
