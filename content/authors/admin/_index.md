@@ -84,8 +84,8 @@ skills:
       - name: Snowboarding
         description: ''
         # percent: 60 # This line remains removed
-        icon: person-snowboarding-solid
-      - name: Pianooo
+        icon: hb/person-snowboarding-solid
+      - name: Piano
         description: ''
         # percent: 100 # This line remains removed
         icon: hb/piano
