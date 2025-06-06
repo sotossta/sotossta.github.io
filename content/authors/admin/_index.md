@@ -52,19 +52,28 @@ interests:
   - Reinforcement Learning
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD in Mathematics of Systems
     institution: University of Warwick
+    date_start: 2023-09-01
+    summary: |
+      - My research mainly focuses on the area of Deepfake detection, under the supervision of Prof. Victor Sanchez and Prof. Vitomir Struc.
+      - The first part of my project focused on developing an anomaly-detection based framework for deepfake detection. This work was published at WACVW 2025.
+      - My most recent work involved developing a new and novel dataset for the detection of Text-To-Video and Image-To-Video media ([press here for more details](https://github.com/sotossta/DecepTIV)). This work is currently under review.
   - area: MSc in Mathematics of Systems
     date_start: 2022-09-01
     date_end: 2023-09-01
+    summary: |
+      - Graduated with distinction.
+      - MSc project: Fairness in Multi-Objective Reinforcement Learning, supervised by Prof. Paolo Turrini, Dr Roxana Rădulescu and Dr Mathieu Reymond.
+      - Group project: Drift and bias in AI triage tools for GP consultations, supervised by Prof. Magnus Richardson.
     institution: University of Warwick
   - area: Master of Physics
     institution: University of Manchester
     date_start: 2018-09-01
     date_end: 2022-09-01
     summary: |
-      - Graduated with first-class honors
-      - Master’s project: Applications of Statistical Physics to Epidemiology, supervised by Professor Tobias Galla
+      - Graduated with first-class honors.
+      - Master’s project: Applications of Statistical Physics to Epidemiology, supervised by Prof. Tobias Galla.
 
 # Add your own SVG icons to `assets/media/icons/`
 skills:
