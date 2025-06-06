@@ -55,13 +55,13 @@ education:
   - area: PhD Artificial Intelligence
     institution: University of Warwick
   - area: MSc in Mathematics of Systems
-    date_start: September 2023
-    date_end: September 2022
+    date_start: 2022-09-01
+    date_end: 2023-09-01
     institution: University of Warwick
   - area: Master of Physics
     institution: University of Manchester
-    date_start: September 2018
-    date_end: September 2022
+    date_start: 2018-09-01
+    date_end: 2022-09-01
     summary: |
       - Graduated with first-class honors
       - Master’s project: Applications of Statistical Physics to Epidemiology, supervised by Professor Tobias Galla
