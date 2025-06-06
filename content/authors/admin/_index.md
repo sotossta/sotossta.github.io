@@ -84,7 +84,7 @@ skills:
       - name: Hiking
         description: ''
         # percent: 60 # This line remains removed
-        icon: person-simple-walk
+        icon: person-snowboarding
       - name: Cats
         description: ''
         # percent: 100 # This line remains removed
