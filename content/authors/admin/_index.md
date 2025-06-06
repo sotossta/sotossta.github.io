@@ -88,17 +88,17 @@ skills:
       - name: Piano
         description: ''
         # percent: 100 # This line remains removed
-        icon: hb/piano
+        icon: 
 
 
-languages: # <--- UNCOMMENT OR ADD THIS SECTION BACK
-  - items:
-    - name: English
-      description: ''
-      # percent: 80 # <-- REMOVE THIS LINE
-    - name: Greek
-      description: ''
-      # percent: 80 # <-- REMOVE THIS LINE
+# #languages: # <--- UNCOMMENT OR ADD THIS SECTION BACK
+#   - items:
+#     - name: English
+#       description: ''
+#       # percent: 80 # <-- REMOVE THIS LINE
+#     - name: Greek
+#       description: ''
+#       # percent: 80 # <-- REMOVE THIS LINE
 
 # Awards.
 #   Add/remove as many awards below as you like.

@@ -30,6 +30,12 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: resume-skills
+    content:
+      title: Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
   - block: collection
     id: papers
     content:
