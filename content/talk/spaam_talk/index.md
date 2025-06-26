@@ -1,11 +1,11 @@
 ---
-title: "Deepfake Detection Using Anomaly Detection Techniques
+title: "Deepfake Detection Using Anomaly Detection Techniques"
 summary: "Presented at the University of Warwick SPAAM Seminar, UK."
 
 event: "University of Warwick SPAAM Seminar"
 
 url_slides: "uploads/SPAAM_seminar_2024.pptx"
-url_video: "https://livewarwickac-my.sharepoint.com/:v:/g/personal/u2283688_live_warwick_ac_uk/EbN_WRdKbq5BowC7IQd4ctYB_zXdgnnPv0UevjPu_VpCJw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=z7zAHA"
+url_video: "https://www.youtube.com/watch?v=5GjcaH_HzNM"
 date: 2024-06-20T09:00:00Z # Use ISO 8601 format for date and time
 
 links:
